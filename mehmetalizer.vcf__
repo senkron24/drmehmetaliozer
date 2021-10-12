@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mehmet Ali Özer;;;;
+FN:Mehmet Ali Özer
+ORG:Dr.Özer Ortodontist
+TITLE:Ortodonti Uzmanı
+TEL;TYPE=work,pref:
+TEL;TYPE=work:
+EMAIL;TYPE=work:
+URL:
+KEY:OPENPGP4FPR:
+UID:enbizcard-989898
+END:VCARD
